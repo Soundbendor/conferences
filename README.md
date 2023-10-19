@@ -3,7 +3,7 @@
 # Music Technology
 | Deadline| Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- |
-| 2024 Jan 21 | ICNMC | [11th International Conference on New Music Concepts](https://www.studiomusicatreviso.it/icnmc/icnmc.php) | Treviso, Italy | 2024 | 2024 Mar 23-24 |
+| 2024 Jan 21 | ICNMC | [11th International Conference on New Music Concepts](https://www.studiomusicatreviso.it/icnmc/icnmc.php) | Treviso, Italy | 2024 Mar 23-24 |
 | 2024 TBD | ISMIR | International Society for Music and Information Retrieval | San Francisco, CA | 2024 Nov 10-14 |
 
 
