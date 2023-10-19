@@ -6,7 +6,6 @@
 | 2024 | Jan 21 | ICNMC | [11th International Conference on New Music Concepts](https://www.studiomusicatreviso.it/icnmc/icnmc.php) | Treviso, Italy | 2024 | Mar 23-24 |
 | 2024 | TBD | ISMIR | [International Society for Music and Information Retrieval](https://ismir.net/) | San Francisco, CA | 2024 | Nov 10-14 |
 
-
 # Signal Processing
 || Deadline |  Acronym | Conference | Location || Date |
 | --- | --- | --- | --- | --- | --- | --- | 
@@ -14,7 +13,15 @@
 
 
 # Machine Learning
+|| Deadline |  Acronym | Conference | Location || Date |
+| --- | --- | --- | --- | --- | --- | --- | 
+
 
 # Multimodal Learning
+|| Deadline |  Acronym | Conference | Location || Date |
+| --- | --- | --- | --- | --- | --- | --- | 
+
 
 # AI and Health
+|| Deadline |  Acronym | Conference | Location || Date |
+| --- | --- | --- | --- | --- | --- | --- | 
