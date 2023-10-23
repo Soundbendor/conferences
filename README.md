@@ -37,7 +37,7 @@
 | Deadline |  Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- |
 | 30 Nov 2023 | DMNLP | [International Conference on Data Mining and Natural Language Processing](http://www.dmnlp.net/) | Singapore | 12-14 Apr 2024 |
-| TBD 2024 | INTERSPEECH | [Interspeech](https://interspeech2024.org/) | Jerusalem, Israel | 1-5 Sept 2024 |
+| TBD 2024 | INTERSPEECH | [Conference of the International Speech Communication Association](https://interspeech2024.org/) | Jerusalem, Israel | 1-5 Sept 2024 |
 
 # Multimodal Learning
 | Deadline |  Acronym | Conference | Location | Date |
