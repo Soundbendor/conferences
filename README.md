@@ -12,7 +12,7 @@
 | Deadline |  Acronym | Conference | Location | Date |
 | --- | --- | --- | --- | --- |
 | 30 Dec 2023| ICMSSP | [9th International Conference on Multimedia Systems and Signal Processing](http://www.icmssp.org/) | Bangkok, Thailand | 24-26 May 2024 |
-| 10 Feb 2024 | ICSIP |[9th IEEE International Conference on Signal and Image Processing](http://www.icsip.org/) | Nanjing, China | 2024 | 12-14 Jul|
+| 10 Feb 2024 | ICSIP |[9th IEEE International Conference on Signal and Image Processing](http://www.icsip.org/) | Nanjing, China | 12-14 Jul 2024 |
 
 # Machine Learning & AI
 | Deadline |  Acronym | Conference | Location | Date |
